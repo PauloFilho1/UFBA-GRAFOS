@@ -1,0 +1,7 @@
+Indicador,Resultado
+C(G) Real vs C_rand,0.2194 vs 0.000769 (285.30x)
+L(G) Real vs L_rand,5.2322 vs 4.6635 (1.1220x)
+Coeficiente Small-World (Sigma),254.29
+Expoente Power Law (gamma),2.0824 (R²=0.9092)
+Homofilia Geográfica (Mesmo País),87.39% vs 11.94% ao acaso
+Jaccard Artistas (Amigos vs Não-Amigos),0.1450 vs 0.0600

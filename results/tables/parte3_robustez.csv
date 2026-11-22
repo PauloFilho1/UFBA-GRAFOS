@@ -1,0 +1,5 @@
+Cenário,Maior Comp. (Vértices),Fração Maior Comp. (S),Nº Componentes,Caminho Médio (L),Diâmetro (D),Fração Isolados
+Grafo Original (Intacto),7624,1.0,1,5.2322,15,0.0
+"Remoção Aleatória 5% (Média ± DP, T=30)",7135.9 ± 15.9,0.9852 ± 0.0022,94.6 ± 12.9,5.2973 ± 0.0328,15.1 ± 0.6,0.0116 ± 0.0016
+Ataque Direcionado 5% (Maior Grau),6523,0.9006,628,7.2931,17,0.0779
+Ataque Direcionado 5% (Maior Betweenness),6305,0.8705,735,7.6227,21,0.0884

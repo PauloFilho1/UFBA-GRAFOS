@@ -1,0 +1,15 @@
+Métrica,Valor,Computada
+Número de vértices (|V|),7624,Sim
+Número de arestas (|E|),27806,Sim
+Grau mínimo,1,Sim
+Grau máximo,216,Sim
+Grau médio,7.2943,Sim
+Densidade,0.000957,Sim
+Número de componentes conexas (original),1,Sim
+Tamanho das componentes (original),[7624],Sim
+Diâmetro,15,Sim
+Raio,8,Sim
+Comprimento médio dos caminhos,5.2322,Sim
+Coeficiente de clusterização médio (local),0.2194,Sim
+Coeficiente de clusterização global (transitividade),0.1786,Sim
+Número de triângulos,40433,Sim

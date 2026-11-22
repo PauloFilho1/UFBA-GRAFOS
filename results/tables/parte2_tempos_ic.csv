@@ -1,0 +1,9 @@
+Algoritmo,Complexidade Teórica,Escopo,Média (ms),Desvio Padrão (ms),IC 95% Inferior (ms),IC 95% Superior (ms),Resultado/Saída
+1. Busca em Largura (BFS),O(|V| + |E|),Completo (|V|=7624),7.0703,0.5413,6.8766,7.264,7624
+2. Busca em Profundidade (DFS),O(|V| + |E|),Completo (|V|=7624),8.5024,0.5385,8.3097,8.6951,7624
+3. Verificação de Eulerianidade,O(|V|),Completo (|V|=7624),2.2412,0.1361,2.1925,2.2899,"(False, 4280)"
+4. Dijkstra (caminho mínimo 1-N),O((|V| + |E|) log |V|),Completo (|V|=7624),29.2452,1.0603,28.8657,29.6246,7624
+5. Bellman-Ford (caminho mínimo 1-N),O(|V| · |E|),Subgrafo (|V|=400),2.34,0.1591,2.283,2.3969,400
+6. Floyd-Warshall (todos os pares),O(|V|³),Subgrafo (|V|=400),76.078,10.5112,72.3166,79.8394,400
+7. Algoritmo de Tarjan (SCC),O(|V| + |E|),Completo Dir. (|V|=7624),16.2063,0.8096,15.9166,16.4961,1
+8. Árvore Geradora Mínima (Kruskal),O(|E| log |E|),Completo (|V|=7624),107.4453,19.7742,100.3692,114.5214,7623
